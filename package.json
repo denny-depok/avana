@@ -1,0 +1,24 @@
+{
+  "name": "avana",
+  "version": "1.0.0",
+  "description": "Microservices library for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denny-depok/avana.git"
+  },
+  "keywords": [
+    "nodejs",
+    "microservices",
+    "cloud"
+  ],
+  "author": "Denny Depok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denny-depok/avana/issues"
+  },
+  "homepage": "https://github.com/denny-depok/avana#readme"
+}
